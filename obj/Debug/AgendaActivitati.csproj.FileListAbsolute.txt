@@ -1,0 +1,9 @@
+C:\Users\danie\OneDrive\Desktop\UNIVER 24\AgendaActivitati\bin\Debug\AgendaActivitati.exe.config
+C:\Users\danie\OneDrive\Desktop\UNIVER 24\AgendaActivitati\bin\Debug\AgendaActivitati.exe
+C:\Users\danie\OneDrive\Desktop\UNIVER 24\AgendaActivitati\bin\Debug\AgendaActivitati.pdb
+C:\Users\danie\OneDrive\Desktop\UNIVER 24\AgendaActivitati\obj\Debug\AgendaActivitati.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\UNIVER 24\AgendaActivitati\obj\Debug\AgendaActivitati.Properties.Resources.resources
+C:\Users\danie\OneDrive\Desktop\UNIVER 24\AgendaActivitati\obj\Debug\AgendaActivitati.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Desktop\UNIVER 24\AgendaActivitati\obj\Debug\AgendaActivitati.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\UNIVER 24\AgendaActivitati\obj\Debug\AgendaActivitati.exe
+C:\Users\danie\OneDrive\Desktop\UNIVER 24\AgendaActivitati\obj\Debug\AgendaActivitati.pdb
