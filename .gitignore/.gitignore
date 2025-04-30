@@ -1,1 +1,10 @@
+# Fișiere generate automat
+bin/
+obj/
 .vs/
+*.user
+*.suo
+
+# Fișiere temporare
+*.log
+*.tmp
